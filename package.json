@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "mysql2": "^3.3.0",
+    "nodemon": "^2.0.22"
+  },
+  "name": "elixir_dcban",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "bin": {
+    "elixir_dcban": "./main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HELLO JJ#2631 & Red's#0866",
+  "license": "MIT",
+  "description": "DISCORD BOT FOR FIVEM BAN SYSTEM"
+}

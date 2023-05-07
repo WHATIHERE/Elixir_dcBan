@@ -15,19 +15,41 @@
 
 1: ไปที่ https://discord.com/developers/applications
 2: กด New Application
+
 3: ตั้งชื่อบอท
+
 4: ไปที่ Bot
+
 5: กด Add Bot
+
 6: กด Copy โทเคน
+
 7: ไปที่ OAuth2
+
 8: กด bot
+
 9: กด Administrator
+
 10: กด Copy ลิงค์
+
 11: ไปที่เว็บที่ต้องการเพิ่มบอท
+
 12: วางลิงค์ที่คัดลอกไว้
+
 13: เลือกเซิฟเวอร์
+
 14: กดยืนยัน
+
 15: กด Authorize
+
+### ย้ำ อ่านตรงนี้ด้วย
+
+หากรันแล้วเกิดอาการขึ้นแบบนี้
+![image](https://user-images.githubusercontent.com/69198341/236704125-92755c36-6e40-4a4e-b70a-c0ecb5886407.png)
+
+ให้ทำตามด้านล่างนี้ดู หากมีปัญหามากกว่านี้แจ้งตามด้านล่างได้เลย
+
+![image](https://user-images.githubusercontent.com/69198341/236704103-89294e10-34d2-45ca-8b63-77567e6fcbf5.png)
 
 
 

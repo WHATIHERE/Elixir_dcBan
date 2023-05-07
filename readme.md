@@ -1,13 +1,16 @@
 ## วิธีติดตั้งสคริป
 
 1: https://nodejs.org/en ติดตั้ง NodeJS ล่าสุด
+
 2: npm install หรือ กด install.bat
+
 3: แก้ไขไฟล์ config.json ให้ตรงกับข้อมูลที่ให้
 
 
 ## วิธีเปิดสคริป
 
 1: รันคำสั่ง node index.js หรือ กด start.bat
+
 2: รอสคริปทำงาน ใช้งานได้เลย
 
 

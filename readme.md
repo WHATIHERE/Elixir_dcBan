@@ -21,6 +21,7 @@
 ## วิธีหาโทเคนบอท
 
 1: ไปที่ https://discord.com/developers/applications
+
 2: กด New Application
 
 3: ตั้งชื่อบอท
